@@ -1,0 +1,29 @@
+{
+  "name": "memecoinwithsolidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimsaJ150/MemecoinWithSolidity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NimsaJ150/MemecoinWithSolidity/issues"
+  },
+  "homepage": "https://github.com/NimsaJ150/MemecoinWithSolidity#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "hardhat": "^2.12.7"
+  }
+}
